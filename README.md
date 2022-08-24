@@ -1,5 +1,5 @@
 
-Hi This is Ravi K R from Karnataka. welcome to my git profile.
+Hi This is Ravi K R from Karnataka, welcome to my git profile.
 
 # Project Name : 10. Interior-Designer-Landing-page ![](https://img.shields.io/badge/Project-10-green)
 
